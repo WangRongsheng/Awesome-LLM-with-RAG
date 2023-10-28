@@ -163,6 +163,7 @@ Enhancing Large Language Models with Retrieval Augmented Generation.
 - A Survey on Retrieval-Augmented Text Generation. [*2022.02.13*] [[Arxiv](https://arxiv.org/abs/2202.01110)]
 - Novelty Controlled Paraphrase Generation with Retrieval Augmented Conditional Prompt Tuning. [*2022.03.12*] [[Arxiv](https://arxiv.org/abs/2202.00535)]
 - Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval. [*2022.06.09*] [[Arxiv](https://arxiv.org/abs/2201.12431)]
+- Improving language models by retrieving from trillions of tokens. [*2022.02.07*] [[Arxiv](https://arxiv.org/abs/2112.04426)]
 - Noise-Augmented Privacy-Preserving Empirical Risk Minimization with Dual-purpose Regularizer and Privacy Budget Retrieval and Recycling. [*2021.10.16*] [[Arxiv](https://arxiv.org/abs/2110.08676)]
 - Controllable Semantic Parsing via Retrieval Augmentation. [*2022.02.23*] [[Arxiv](https://arxiv.org/abs/2110.08458)]
 - RETRONLU: Retrieval Augmented Task-Oriented Semantic Parsing. [*2021.09.21*] [[Arxiv](https://arxiv.org/abs/2109.10410)]
