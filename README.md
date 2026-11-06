@@ -6,6 +6,9 @@ Enhancing Large Language Models with Retrieval Augmented Generation.
 
 # Paper
 
+- SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation. [*2026.06.26*] [[Arxiv](https://arxiv.org/abs/2606.27786)][[Code](https://github.com/OpenBMB/SPARK)]
+- ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance. [*2025.02.24*] [[Arxiv](https://arxiv.org/abs/2502.17057)][[Code](https://github.com/NEUIR/ExpandR)]
+- ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation. [*2025.02.21*] [[Arxiv](https://arxiv.org/abs/2502.15543)][[Code](https://github.com/OpenBMB/ParamMute)]
 - Unlimiformer: Long-Range Transformers with Unlimited Length Input. [*2023.10.30*] [[Arxiv](https://arxiv.org/abs/2305.01625)] 
 - Active Retrieval Augmented Generation. [*2023.10.22*] [[Arxiv](https://arxiv.org/abs/2305.06983)]
 - Understanding Retrieval Augmentation for Long-Form Question Answering. [*2023.10.18*] [[Arxiv](https://arxiv.org/abs/2310.12150)]
